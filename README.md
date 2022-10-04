@@ -11,4 +11,4 @@ Steps To Contribute :
 3 ] Click on Fork button on right top of screen. 
 4 ] Then go to repo that is newly-created in your repository section.
 5 ] Add your project folder in repository.
-6 ] Save changes and create pull request and wait for approved from us.
+6 ] Save changes and create pull request and wait for approved from maintainer.
