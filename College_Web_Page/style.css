@@ -1,0 +1,27 @@
+.main-heading{
+	height: 70px;
+	background-color: grey;
+	color:blue;
+	text-align: center;
+}
+.swiper-container
+{
+		  width: 100%;
+		  padding-top: 20px;
+		  padding-bottom: 50px;
+}
+.swiper-slide
+{
+		  background-position: center;
+		  background-size: cover;
+		  width: 300px;
+		  height: 380px;
+		  background:#fff;
+
+}
+.swiper-wrapper  .details{
+	text-align: center;
+	font-size: 20px;
+	color: red;
+
+}
